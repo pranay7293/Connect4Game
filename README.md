@@ -18,7 +18,6 @@
  3. Rows will be filled from bottom to top in any column.
 
 <br>
-
 #### Game Start
 
 ![image](https://github.com/pranay7293/Connect4Game/assets/119421688/df9980da-c381-46f2-8eb1-ae2304509b21)
