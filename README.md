@@ -1,8 +1,8 @@
 # Connect4Game
 
-          ##  +-------------------------------+
-          ##  |   WELCOME TO CONNECT-4 GAME   |
-           ## +-------------------------------+
+              +-------------------------------+
+              |   WELCOME TO CONNECT-4 GAME   |
+              +-------------------------------+
 
 ## RULES:
  1. Two-playe Red(R) & Blue(B) game.
