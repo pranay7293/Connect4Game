@@ -15,7 +15,10 @@
  1. Game always starts with player- 1 i.e. Red(R).
  2. In each step choose the column number in which you
     want to drop the letter.
- 3. Rows will be filled from bottom to top in any column
+ 3. Rows will be filled from bottom to top in any column.
+
+<br>
+<br>
 
 
 #### Game Start
