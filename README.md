@@ -17,6 +17,9 @@
     want to drop the letter.
  3. Rows will be filled from bottom to top in any column
 
+
+
+
 ![image](https://github.com/pranay7293/Connect4Game/assets/119421688/df9980da-c381-46f2-8eb1-ae2304509b21)
 
 ![REDWIN](https://github.com/pranay7293/Connect4Game/assets/119421688/b33c22bc-909f-46d8-8557-2facdfb393ed)
