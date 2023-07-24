@@ -18,8 +18,6 @@
  3. Rows will be filled from bottom to top in any column.
 
 <br>
-<br>
-
 
 #### Game Start
 
